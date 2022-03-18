@@ -1,6 +1,6 @@
 ### Ola eu sou o Rafael Major ✌️
 
-Trabalho como SAP ABAP/PI/PO ha 7 anos, mas estou querendo expandir os horizontes e entrar nesse mundo de desenvolvimento de APPs e sistemas WEB
+Trabalho como SAP ABAP/PI/PO ha 7 anos e como estou sempre em busca de amplicar meus conhecimentos, resolvi começar a estudar desenvolvimento de APPs e sistemas WEB.
 
 <div align="center">
   <a href="https://github.com/guelleri">
